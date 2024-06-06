@@ -1,0 +1,9 @@
+{
+    "gpio_pins": {
+        "sensor1": 11,
+        "sensor2": 13,
+        "light1": 16,
+        "light2": 18,
+        "light3": 22
+    }
+}
